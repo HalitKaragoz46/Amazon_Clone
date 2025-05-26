@@ -53,3 +53,6 @@ Comprehensive link categories (About, Seller Info, Payment Options, Customer Ser
 -Mobile-first approach
 
 🖼️Perfect portfolio piece showcasing e-commerce development skills! 🚀
+
+# ✉️ Contact
+Please contact halit.karagoz46@♣gmail.com
