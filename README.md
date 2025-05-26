@@ -1,5 +1,5 @@
 # 🛒 Amazon Clone - Project Overview
--🔑 Key Features:
+- 🔑 Key Features:
 
 Fully responsive design - mobile, tablet & desktop compatible
 Modern UI/UX - faithful recreation of Amazon's original design
@@ -9,26 +9,26 @@ Turkish localization - customized for Turkish market
 ![Amazon-clone](https://github.com/user-attachments/assets/929d5ec1-b555-447a-bedd-832ed2306d40)
 
 # Main Components:
--🔝 Header Section:
+- 🔝 Header Section:
 
 Amazon logo, location indicator (Turkey)
 Advanced search bar with category selection
 User navigation menus & shopping cart
 
--📋 Navigation Panel:
+- 📋 Navigation Panel:
 
 Quick access links (Best Sellers, Prime, New Releases)
 Special campaign notifications
 
--🎯 Hero Section:
+- 🎯 Hero Section:
 
 Visual background with Amazon Turkey redirect message
 
-#🏪 Category Showcase:
+# 🏪 Category Showcase:
 
 8 product categories: Toys, Furniture, Beauty, Electronics, Pet Care, Women's Clothing, Health & Personal Care, General Clothing
 
--💰 Discount Section:
+- 💰 Discount Section:
 
 Kitchen category special offers with up to 23% discounts
 Interactive hover effects and animations
@@ -37,7 +37,7 @@ Interactive hover effects and animations
 
 Comprehensive link categories (About, Seller Info, Payment Options, Customer Service)
 
-# 🧑‍💻Technical Stack:
+# 🧑‍💻 Technical Stack:
 
 -CSS Grid & Flexbox layout
 -Poppins font family
@@ -45,14 +45,14 @@ Comprehensive link categories (About, Seller Info, Payment Options, Customer Ser
 -Smooth animations and hover effects
 -Responsive design with media queries
 
-# 🖼️Design Highlights:
+# 🖼️ Design Highlights:
 
 -Color scheme: Amazon's signature orange (#fabd68) with dark tones
 -Modern card designs with box-shadow effects
 -Visual-focused category presentation
 -Mobile-first approach
 
-🖼️Perfect portfolio piece showcasing e-commerce development skills! 🚀
+# 🖼️ Perfect portfolio piece showcasing e-commerce development skills! 🚀
 
 # ✉️ Contact
 Please contact halit.karagoz46@♣gmail.com
