@@ -1,5 +1,5 @@
 # 🛒 Amazon Clone - Project Overview
-Key Features:
+-🔑 Key Features:
 
 Fully responsive design - mobile, tablet & desktop compatible
 Modern UI/UX - faithful recreation of Amazon's original design
